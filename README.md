@@ -1,2 +1,2 @@
 # flask-docker
-Dockerfile for Create Flask Server
+docker-compose for Create Flask Server
